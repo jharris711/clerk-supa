@@ -2,7 +2,7 @@
 
 ## A super-basic todo app to get acquainted with Clerk and Supabase in Next.js.
 
-An updated version of [this tutorial](https://clerk.com/blog/nextjs-supabase-todos-with-multifactor-authentication)
+An updated version of <a href="https://clerk.com/blog/nextjs-supabase-todos-with-multifactor-authentication" target="_blank">this tutorial</a>
 
 ### To run the app:
 
@@ -26,4 +26,4 @@ npm run dev
 ```
 
 
-The app will be available in your browser at <a  href="http://localhost:3000" target="_blank">http://localhost:3000</a>
+The app will be available in your browser at <a href="https://localhost:3000" target="_blank">http://localhost:3000</a>
